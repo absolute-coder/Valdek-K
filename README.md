@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Valdek-K
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML, CSS, JS, PYTHON, PHP, MySQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Sup!🤙
+😎I'm beginner at programming & my dream is to become a software developer🔥
 
 <!---
 Valdek-K/Valdek-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
